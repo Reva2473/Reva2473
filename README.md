@@ -55,3 +55,10 @@
 
 </div>
 </div>
+
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mphytgudv5fkg2kys665ling2a&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false">
+  </a>
+</div>
