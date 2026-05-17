@@ -49,8 +49,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-revanshuranjanug25-8584s-projects.vercel.app/api
-    username=Reva2473&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-revanshuranjanug25-8584s-projects.vercel.app/api/top-langs/?username=Reva2473&layout=compact&theme=tokyonight"/>
+ <div align="center">
+  <img height="180em" src="https://github-readme-wheat.vercel.app/api?username=Reva2473&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-wheat.vercel.app/api/top-langs/?username=Reva2473&layout=compact&theme=tokyonight"/>
+</div>
 </div>
