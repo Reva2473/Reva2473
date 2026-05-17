@@ -40,7 +40,7 @@
 ### Featured Projects
 
 *   **Delhi-Dost:** A civic sustainability assistant featuring bilingual voice reporting and a visual complaint tracker. *(Flask, React, Vite)*
-*   **YamunaWatch:** A solar-powered IoT monitoring system designed for real-time river pollution tracking. *(ESP32, Sensor Integration)*
+*  **Smart Multi-Layer Security System (Orbix Hackathon Finalist):** An IoT smart lock featuring multi-layer RFID authentication, real-time sensor tamper detection, and mobile push notifications. *(ESP32, Arduino IDE, Blynk, IoT Sensors)*
 *   **TaskMatrix:** A collaborative task management platform with secure user authentication and group sharing.
 *   **Browser Extensions:** Custom clipboard management architecture built for Chromium.
 
